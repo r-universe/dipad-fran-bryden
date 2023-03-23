@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bodsr"]
+	path = bodsr
+	url = https://github.com/cran/bodsr
+	shallow = true
+	registered = true
+[submodule "naptanr"]
+	path = naptanr
+	url = https://github.com/cran/naptanr
+	shallow = true
+	registered = true
